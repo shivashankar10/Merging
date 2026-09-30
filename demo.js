@@ -31,9 +31,4 @@ else{
     console.log("10rs per unit");
     console.log(units*10);
 }
-
-
-//3rd
-
-
-}
+console.log(units);
