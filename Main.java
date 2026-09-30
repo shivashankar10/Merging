@@ -4,13 +4,14 @@ public class Main
     long val2 = (int)val1;
     float val3 = (int)val1;
     double val4 = (int)val1;
+    
 	public static void main(String[] args) {
 	    Main m = new Main();
+        // System.out.println(val1);
 		System.out.println("Widening Cating ="+ m.val1);
 		System.out.println("Widening Cating ="+ m.val2);
 		System.out.println("Widening Cating ="+ m.val3);
 		System.out.println("Widening Cating ="+ m.val4);
-
 	}
 }
 
